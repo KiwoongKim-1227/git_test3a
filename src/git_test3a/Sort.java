@@ -1,4 +1,4 @@
-package git_test3;
+package git_test3a;
 
 public class Sort {
 	public static void sort(int[] a) {
